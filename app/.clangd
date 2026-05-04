@@ -2,5 +2,5 @@ CompileFlags:
   Add:
     - "-DEMSCRIPTEN"
     - "--target=wasm32-unknown-emscripten"
-    - "-isystem/usr/bin/cache/sysroot/include/upstream/emscripten/cache/sysroot/include"
+    - "-isystem/usr/share/emscripten/cache/sysroot/include"
 
